@@ -8,38 +8,38 @@ Currently, the CEO of Fome Zero is aware that the company's revenue is growing. 
 
 Under this demand, the initial need was defined to create an overview of the growth and the current state of each of the pillars of the Zero Hunger business, thus exploring countries, cities and culinary types.
 
-# Assumed assumptions for data analysis
+#  Assumed assumptions for data analysis
 
-#### there are 15 countries registered
-#### 3 main visions will be elaborated under the business (Countries, Cities and Cuisiness)
-#### It is assumed that the company has the Marketplace type business model
+#### 1. there are 15 countries registered
+#### 2. 3 main visions will be elaborated under the business (Countries, Cities and Cuisiness)
+#### 3. It is assumed that the company has the Marketplace type business model
 
 # Solution strategy
 
 #### 3 panels will be created containing some views on the company's business
 
-# Country view
+#  Country view
 
-#### Number Of Restaurants Registered By Country
-#### Average Of Votes By Country
-#### Average Cost for two By Country
+#### 1. Number Of Restaurants Registered By Country
+#### 2. Average Of Votes By Country
+#### 3. Average Cost for two By Country
 
 # City view
 
-#### Top 10 Cities With Most Variety Of Cuisisnes
-#### Top 10 Cities With Lowest Average Price For Two By City
-#### Top 7 Cities above 4 star
-#### Top 7 Cities below 4 star
-#### Cities With Deliverys
-#### Cities With Table Booking
+#### 1. Top 10 Cities With Most Variety Of Cuisisnes
+#### 2. Top 10 Cities With Lowest Average Price For Two By City
+#### 3. Top 7 Cities above 4 star
+#### 4. Top 7 Cities below 4 star
+#### 5. Cities With Deliverys
+#### 6. Cities With Table Booking
 
 # Cuisines view
 
-#### Bests Restaurante By Cuisines
-#### Top 10 Restaurants
-#### Top 10 Cuisines
-#### Bests Cuisines
-#### Worst Cuisines
+#### 1. Bests Restaurante By Cuisines
+#### 2. Top 10 Restaurants
+#### 3. Top 10 Cuisines
+#### 4. Bests Cuisines
+#### 5. Worst Cuisines
 
 # Main view
 
