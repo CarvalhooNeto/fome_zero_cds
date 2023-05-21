@@ -1,4 +1,4 @@
-# the busniness problem
+# The busniness problem
 
 Fome Zero is a company that has an application that connects restaurants and customers. This application works very similarly to the iFood, Uber eats, Doordash, GrubHub applications commonly known in the West.
 
@@ -14,7 +14,7 @@ Under this demand, the initial need was defined to create an overview of the gro
 #### 3 main visions will be elaborated under the business (Countries, Cities and Cuisiness)
 #### It is assumed that the company has the Marketplace type business model
 
-# solution strategy
+# Solution strategy
 
 #### 3 panels will be created containing some views on the company's business
 
