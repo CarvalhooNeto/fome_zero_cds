@@ -2,7 +2,6 @@ import pandas as pd
 import streamlit as st
 import plotly.express as px
 import matplotlib.pyplot as plt
-import seaborn as sns
 import folium
 from PIL import Image
 from streamlit_folium import folium_static
