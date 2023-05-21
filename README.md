@@ -10,36 +10,36 @@ Under this demand, the initial need was defined to create an overview of the gro
 
 # Assumed assumptions for data analysis
 
-## there are 15 countries registered
-## 3 main visions will be elaborated under the business (Countries, Cities and Cuisiness)
-## It is assumed that the company has the Marketplace type business model
+#### there are 15 countries registered
+#### 3 main visions will be elaborated under the business (Countries, Cities and Cuisiness)
+#### It is assumed that the company has the Marketplace type business model
 
 # solution strategy
 
-## 3 panels will be created containing some views on the company's business
+#### 3 panels will be created containing some views on the company's business
 
 # Country view
 
-## Number Of Restaurants Registered By Country
-## Average Of Votes By Country
-## Average Cost for two By Country
+#### Number Of Restaurants Registered By Country
+#### Average Of Votes By Country
+#### Average Cost for two By Country
 
 # City view
 
-## Top 10 Cities With Most Variety Of Cuisisnes
-## Top 10 Cities With Lowest Average Price For Two By City
-## Top 7 Cities above 4 star
-## Top 7 Cities below 4 star
-## Cities With Deliverys
-## Cities With Table Booking
+#### Top 10 Cities With Most Variety Of Cuisisnes
+#### Top 10 Cities With Lowest Average Price For Two By City
+#### Top 7 Cities above 4 star
+#### Top 7 Cities below 4 star
+#### Cities With Deliverys
+#### Cities With Table Booking
 
 # Cuisines view
 
-## Bests Restaurante By Cuisines
-## Top 10 Restaurants
-## Top 10 Cuisines
-## Bests Cuisines
-## Worst Cuisines
+#### Bests Restaurante By Cuisines
+#### Top 10 Restaurants
+#### Top 10 Cuisines
+#### Bests Cuisines
+#### Worst Cuisines
 
 # Main view
 
