@@ -126,7 +126,7 @@ with tab1:
 
     with col2:
       number_country = len(df['Country Code'].unique())
-      col2.metric('Number of Countrys: ', number_country)
+      col2.metric('Number of Countries: ', number_country)
 
     with col3:
       number_cities = len(df['City'].unique())
